@@ -13,7 +13,7 @@ setup(
     author_email="russellromney@gmail.com",
     license="MIT",
     packages=find_packages(),
-    install_requires=["Flask-Login==0.5.0", "msgpack", "psycopg2", ""],
+    install_requires=["Flask-Login==0.6.2", "msgpack", "psycopg2", ""],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
